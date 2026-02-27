@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+.pnpm-debug.log*
+
+# next.js
+.next/
+out/
+
+# turborepo
+.turbo
+
+# build outputs
+dist
+build
+
+# misc
+.DS_Store
+*.pem
+
+# env files
+.env*
+!.env.example
